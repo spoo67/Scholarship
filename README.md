@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+This project is a dynamic AI-driven scholarship search application. It leverages the power of the Gemini API to intelligently find and match scholarships, providing a smart, responsive, and seamless search experience for users.
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/db60499a-92b5-46a9-a8d5-85d7aa5d7c61
